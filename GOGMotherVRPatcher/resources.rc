@@ -1,0 +1,2 @@
+// ID_NAME     RESOURCE_TYPE     RELATIVE_PATH_TO_YOUR_BINARY
+MOTHER_TO_GOG_PATCH    RCDATA            "GOGPatch\\dxgi.dll.patch"
